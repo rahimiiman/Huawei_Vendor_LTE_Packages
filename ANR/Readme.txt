@@ -1,7 +1,7 @@
 This Module return back an excel file including all controlling switches and parameters related to Huawei LTE ANR package.
 
 1- on Huawei OSS , export LTE base Station Bulk configuration 
-2- Bulk file needs to have following MOs:
+2- Bulk file needs to have following sheets:
 ----------CELL
 ----------ENODEBALGOSWITCH
 ----------EUTRANINTERNFREQ

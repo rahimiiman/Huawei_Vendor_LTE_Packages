@@ -2,7 +2,8 @@ This tools is provided to compare PCI / TAC / ARFCN of EUTRANEXTERNALCELL MO to 
 and find if there is any discrepancy and mis-configuration .
 
 1- on Huawei OSS , export LTE base Station Bulk configuration 
-2- Bulk file needs to have following MOs:
+2- Bulk file needs to have following sheetss:
+----------Base Station Transport Data
 ----------CELL
 ----------EUTRANEXTERNALCELL
 ----------CNOPERATORTA
